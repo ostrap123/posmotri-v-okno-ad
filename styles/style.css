@@ -294,6 +294,7 @@ ol {
   line-height: 0.9;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;
+  line-clamp: 4;
 }
 
 .content__video-card-thumbnail {
